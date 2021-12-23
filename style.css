@@ -1,0 +1,11 @@
+body {
+  font-family:sans-serif;
+  color: #926239;
+}
+.inline-block {
+  display: inline-block;
+}
+.main-screen {
+  width: 500px;
+  margin: auto;
+}
