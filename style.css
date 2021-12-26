@@ -55,6 +55,17 @@ h1 {
   padding: 15px 20px;
 }
 
+.button:hover {
+  color: white;
+  background-color: #926239;
+}
+
+.button:active {
+  color: white;
+  background-color: #ff74e1;
+  border: 1px solid #ff74e1;
+}
+
 .sect {
   background-color: white;
   padding: 20px 20px;
