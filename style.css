@@ -16,7 +16,6 @@ body {
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
-  letter-spacing: -0.5px;
 }
 
 .main-screen {
@@ -38,6 +37,8 @@ h1 {
   text-transform: capitalize;
   font-size: 50px;
   margin: 0px;
+  padding-top: 20px;
+  padding-bottom: 7px;
 }
 
 .main-text {
@@ -53,7 +54,7 @@ h1 {
   text-decoration: none;
   border: 1px solid #926239;
   border-radius: 9px;
-  padding: 10px 20px;
+  padding: 15px 20px;
 }
 
 .button:hover {
@@ -69,7 +70,7 @@ h1 {
 
 .sect {
   background-color: white;
-  padding: 20px 10px;
+  padding: 20px;
   line-height: 160%;
   text-align: center;
 }
